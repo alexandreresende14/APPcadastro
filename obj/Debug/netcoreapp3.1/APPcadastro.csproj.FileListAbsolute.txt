@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\bin\Debug\netcoreapp3.1\APPcadastro.exe
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\bin\Debug\netcoreapp3.1\APPcadastro.deps.json
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\bin\Debug\netcoreapp3.1\APPcadastro.runtimeconfig.json
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\bin\Debug\netcoreapp3.1\APPcadastro.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\bin\Debug\netcoreapp3.1\APPcadastro.dll
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\bin\Debug\netcoreapp3.1\APPcadastro.pdb
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.dll
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.pdb
+C:\Users\Pichau\Documents\Alexandre\Estudos\Avanade\APPcadastro\obj\Debug\netcoreapp3.1\APPcadastro.genruntimeconfig.cache
